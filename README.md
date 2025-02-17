@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @nyamanyi22  
+### 👋 Hi, I’m @nyamanyi
 - 👀 I’m interested in **Full Stack Development**  **Backend Development** **AI**
 - 🌱 I’m currently learning **React.js** and **C++**  
 - 💞️ I’m looking to collaborate on **Java, C, PHP, HTML, CSS, and JavaScript**  
