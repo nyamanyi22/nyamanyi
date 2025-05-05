@@ -37,10 +37,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- React.js
-- C++
 
 ## 💞️ Looking to Collaborate On
 
@@ -50,6 +46,12 @@
 - HTML
 - CSS
 - JavaScript
+  ## 🚀 Projects
+- 🔐 **[Student Management System](https://github.com/nyamanyi22/Student-Management-System-java)** – Java + MySQL app for managing student records
+- 🧠 **[Quote Generator](https://github.com/nyamanyi22/quote-generator)** – Fun JavaScript app using the Quotable API
+- ✅ **[Todo List](https://github.com/nyamanyi22/Todo-list-js)** – Simple task manager built with JavaScript
+- 💡 **[Teach2give](https://github.com/nyamanyi22/Teach2give)** – A social impact initiative
+
 
 ## 💡 Ask Me About
 
